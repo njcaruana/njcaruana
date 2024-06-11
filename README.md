@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Nikeisha 👋
 
 <!--
 **njcaruana/njcaruana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a researcher and bioinformatician working at Bio21 in Melbourne 💻 
+
+I work on multi-omic bioinformatic analysis of quantitative ‘omics methodologies including proteomics, metabolomics and transcriptomics. 
+I am currently developing pipelines and web-based tools for processing and communicating multi-omic datasets, focussing on mitochondrial and rare diseases.
+
+[LinkedIn 💼](https://www.linkedin.com/in/njcaruana/)
+
+[Twitter 🐦](https://twitter.com/bluebirdi)
